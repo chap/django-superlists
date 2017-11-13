@@ -1,0 +1,4 @@
+[packages]
+requests = { extras = ['socks'] }
+django = '<1.12'
+selecnium = '<4'
